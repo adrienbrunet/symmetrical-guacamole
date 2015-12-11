@@ -1,0 +1,18 @@
+{
+	"color_scheme": "Packages/User/Monokai (Flake8Lint).tmTheme",
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"rulers":
+	[
+		80,
+		120
+	],
+	"sidebar_no_icon": false,
+	"status_bar_brighter": true,
+	"tabs_small": true,
+	"theme": "Afterglow-blue.sublime-theme",
+	"trim_trailing_white_space_on_save": true
+}

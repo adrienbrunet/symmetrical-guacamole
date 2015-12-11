@@ -1,0 +1,30 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1Self",
+		"3024 Color Scheme",
+		"AngularJS",
+		"AngularJS Snippets",
+		"AutoPEP8",
+		"Djaneiro",
+		"Django Manage Commands",
+		"HTML5",
+		"HTMLBeautify",
+		"Insert Callback",
+		"isort",
+		"JsFormat",
+		"JSLint",
+		"Package Control",
+		"Python Auto-Complete",
+		"Python Flake8 Lint",
+		"Python PEP8 Autoformat",
+		"Python Pep8 Lint",
+		"sublime-jslint",
+		"SublimeLinter",
+		"Theme - Afterglow"
+	]
+}
